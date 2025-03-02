@@ -1,5 +1,5 @@
 # Cherry Cola
-an application for windows that allows you to test your controller
+an open source application for windows that allows you to test your controller using Python
 
 ## Features
 - Xbox,Playstation (3 to 5), Nintendo and Steam controller support
